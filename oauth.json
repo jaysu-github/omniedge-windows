@@ -1,0 +1,12 @@
+{
+    "dev": {
+        "client_id": "uuid",
+        "project_id": "omniedge",
+        "auth_uri": "https://example.com/login",
+        "cognito_uri": "https://example.com",
+        "client_secret": "password",
+        "redirect_uri": "http://localhost:8080/",
+        "graphql_endpoint": "https://example.com/graphql",
+        "api_endpoint": "https://example.com"
+    }
+}
